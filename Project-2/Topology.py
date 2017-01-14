@@ -1,4 +1,4 @@
-# Project 2 for OMS6250 Fall 2016
+# Project 2 for OMS6250 Spring 2017
 #
 # Defines a Topology, which is a collection of switches and links between them. Students should not
 # modify this file.  This is NOT a topology like the ones defined in Mininet projects.
@@ -65,6 +65,5 @@ class Topology(object):
                 entry = self.switches[switch].generate_logstring()
                 entry += "\n"
                 out.write(entry)
-            out.write("\n")
             out.close()
         

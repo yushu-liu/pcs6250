@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# Project 2 for OMS6250 Fall 2016
+# Project 2 for OMS6250 Spring 2017
 #
 # Usage:
 # Generically, it is run as follows:
